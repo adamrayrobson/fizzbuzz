@@ -1,4 +1,4 @@
-# Fizz Buzz
+# Fizzbuzz
 
 This repository is a build of the well-known Fizz Buzz program, which will
 count to a given value, counting any multiples of 3 as `fizz`, any multiples
@@ -8,4 +8,3 @@ The program includes a test suite, written in [Jest](https://jestjs.io) that
 verifies the functionality of the functions contained herein.
 
 ## Getting started
-# fizzbuzz
